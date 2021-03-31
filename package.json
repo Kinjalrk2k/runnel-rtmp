@@ -1,0 +1,23 @@
+{
+  "name": "runnel-rtmp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kinjalrk2k/runnel-rtmp.git"
+  },
+  "author": "Kinjal Raykarmakar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kinjalrk2k/runnel-rtmp/issues"
+  },
+  "homepage": "https://github.com/Kinjalrk2k/runnel-rtmp#readme",
+  "dependencies": {
+    "node-media-server": "^2.2.4"
+  }
+}
